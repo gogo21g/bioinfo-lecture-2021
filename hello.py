@@ -1,5 +1,5 @@
 #!/user/bin/python
 
-print("Hello World")
+print("Hello Bioinformatics")
 
 
